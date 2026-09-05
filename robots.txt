@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leroybalireset.github.io/notes-t1wye2/sitemap.xml
